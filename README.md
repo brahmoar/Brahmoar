@@ -48,10 +48,96 @@ Mi enfoque está en comprender los **fundamentos de cada tecnología**, aplicand
 
 <div align="center">
 
-| 🔐 LoginRegistroMVC | 🌌 Atmosphera |
-|:---:|:---:|
-| Aplicación web académica enfocada en **autenticación de usuarios** y gestión de datos personales. Incluye validaciones, estructura MVC y consumo de datos desde backend. | Proyecto web orientado al **diseño visual y la experiencia de usuario**, con animaciones, ambientación dinámica y efectos CSS. |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🔐 LoginRegistroMVC</h3>
+
+<div align="left">
+Sistema web académico desarrollado con <b>ASP.NET MVC</b>, orientado a la  
+<b>autenticación de usuarios</b> y <b>gestión de datos personales</b>.  
+Implementa validaciones, separación de responsabilidades y una arquitectura MVC clara.
+</div>
+
+<br>
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🌌 Atmosphera</h3>
+
+<div align="left">
+Proyecto web enfocado en la <b>experiencia visual y atmosférica</b>, incorporando  
+ciclos dinámicos de día y noche, estaciones y efectos visuales mediante <b>CSS</b>.
+</div>
+
+<br>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">📦 Inventario</h3>
+
+<div align="left">
+Aplicación de escritorio desarrollada para la  
+<b>gestión de inventario</b>, permitiendo registrar, actualizar y controlar  
+productos y stock mediante formularios.
+</div>
+
+<br>
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🌱 PlantCare</h3>
+
+<div align="left">
+Aplicación móvil <b>Android</b> desarrollada en <b>Kotlin</b> que permite  
+añadir y gestionar plantas, definir días de riego y enviar  
+<b>recordatorios automáticos</b> según la fecha configurada.
+</div>
+
+<br>
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
