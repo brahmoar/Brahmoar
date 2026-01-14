@@ -31,16 +31,14 @@ Mi enfoque está en comprender los **fundamentos de cada tecnología**, aplicand
 <div align="center">
 
 ### 💻 Lenguajes y frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,kotlin,python&theme=dark" />
 </p>
 
 ### 🗄️ Bases de datos, APIs y herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,androidstudio,git,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,postman&theme=dark" />
 </p>
-
-</div>
 
 ---
 
