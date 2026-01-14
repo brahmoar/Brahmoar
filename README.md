@@ -134,8 +134,34 @@ añadir y gestionar plantas, definir días de riego y enviar
 </div>
 
 </td>
-</tr>
-</table>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">⚡ PulseAPI</h3>
+
+<div align="left">
+API REST desarrollada en <b>Python</b>, orientada a la  
+<b>comunicación en tiempo real</b> y al desarrollo de sistemas backend modernos.  
+Incluye <b>WebSockets</b>, <b>autenticación JWT</b>, <b>chat multi-sala</b>,  
+<b>rate limiting</b>, <b>webhooks</b> y <b>documentación Swagger interactiva</b>,  
+además de un <b>panel de administración</b>.
+</div>
+
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST--API-02569B?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat-square)
 
 </div>
 
